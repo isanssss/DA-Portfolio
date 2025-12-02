@@ -1,6 +1,6 @@
 # Fraud Analysis Project — PBL MSIB Batch 7  
 ### Bitlabs Academy x Paper.id  
-**By: Achmad Ikhsan Alghifari, Jauzay Audy S, Ni Made Ochiana S P**
+**By: Jauza Audy S, Achmad Ikhsan Alghifari, Ni Made Ochiana S P**
 
 ## Project Overview  
 This repository contains the final project for **PBL (Project-Based Learning) MSIB Batch 7** at **Bitlabs Academy**, focusing on **fraud analysis in digital payments** using datasets inspired by **Paper.id**.
